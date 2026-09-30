@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on Data Quality
 - 🌱 I’m currently advocating for Loop
 - 👯 I’m looking to collaborate on Lovable
-- 📫 How to reach me: https://dimitripletschette.com
-- ⚡ My latest launch: https://bitcoin-monitor.lovable.app 
+- 📫 How to reach me: [dimitripletschette.com](https://dimitripletschette.com)
+- 🚀 My latest launch: [bitcoin-monitor.lovable.app](https://bitcoin-monitor.lovable.app)
