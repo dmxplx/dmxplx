@@ -6,4 +6,4 @@
 - 🌱 I’m currently advocating for Loop
 - 👯 I’m looking to collaborate on Lovable
 - 📫 How to reach me: https://dimitripletschette.com
-- ⚡ My latest launch: https://bitcoin-monitor.lovable.app
+- ⚡ My latest launch: https://bitcoin-monitor.lovable.app 
