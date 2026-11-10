@@ -4,5 +4,5 @@
 - 👾 Love Records, Arte TV, & Sushis
 - 💼 I’m currently working on Data Quality
 - 📢 I’m advocating for Accessibility
-- 👯 I’m looking to collaborate on Ubuntu
+- 👯 I’m looking to collaborate on Open Source
 - 📫 How to reach me: [dimitripletschette.com](https://dimitripletschette.com)
